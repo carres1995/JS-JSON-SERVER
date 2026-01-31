@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "id": "1",
       "nombre": "Seiya",
-      "constelacion": "Pegaso"
+      "constelacion": "Pegaso",
+      "id": "1"
     },
     {
-      "id": "2",
       "nombre": "Shiryu",
-      "constelacion": "Dragon"
+      "constelacion": "Dragon",
+      "id": "2"
     },
     {
       "id": "3",
@@ -16,9 +16,9 @@
       "constelacion": "Cisne"
     },
     {
-      "id": "4",
       "nombre": "Shun",
-      "constelacion": "Andromeda"
+      "constelacion": "Andromeda",
+      "id": "4"
     },
     {
       "id": "5",
@@ -26,9 +26,9 @@
       "constelacion": "Cenizas"
     },
     {
-      "id": 6,
       "nombre": "Sagga",
-      "constelacion": "Geminis"
+      "constelacion": "Gemini",
+      "id": "6"
     }
   ],
   "dioses": [
